@@ -62,7 +62,7 @@ let max = FindMax(array);
 
 ## Education:
 
-![Лого университета](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/BrSTU_Eng.svg/1200px-BrSTU_Eng.svg.png)
+![University](https://d2j9ajyqzrtup7.cloudfront.net/wp-content/uploads/2020/04/univer1200.jpg)
 **_BREST STATE TECHNICAL UNIVERSITY_**
 
 ---
